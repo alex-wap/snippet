@@ -15,5 +15,6 @@ Storyboard, Auto Layout, Table View, Custom Cell, Core Data (Data Persistence), 
 
 ## Screenshots:
 
-![screenshot 1](https://github.com/alex-wap/snippet/ss/S1.PNG "Screenshot 1")
-
+![screenshot 1](https://github.com/alex-wap/snippet/blob/master/ss/S1.PNG "Screenshot 1")
+![screenshot 2](https://github.com/alex-wap/snippet/blob/master/ss/S2.PNG "Screenshot 2")
+![screenshot 3](https://github.com/alex-wap/snippet/blob/master/ss/S3.PNG "Screenshot 3")
