@@ -1,0 +1,6 @@
+framework module KOKeyboard {
+  umbrella header "KOKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}

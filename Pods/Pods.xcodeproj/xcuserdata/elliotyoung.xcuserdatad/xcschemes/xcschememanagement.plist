@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>KOKeyboard.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-snippet.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-snippetTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-snippetUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Socket.IO-Client-Swift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3BAE87F0034DD9B8747762CF2A3A4A8F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40F835650317A46D9755C081CE3BF760</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>638484AE557E8BA8E998414819F3F9C4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>648840E39DA6BE5E4DC43299F81CFAE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>743395C082B55CCA98F5707C3A83E150</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
