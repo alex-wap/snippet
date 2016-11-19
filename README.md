@@ -12,3 +12,8 @@ Swift, JavaScript, Express.js, Node.js, Socket.IO, Xcode 7.3.1.
 
 
 Storyboard, Auto Layout, Table View, Custom Cell, Core Data (Data Persistence), Tab View Controller, Navigation Controller, Protocols, Delegates, CocoaPods.
+
+## Screenshots:
+
+![screenshot 1](https://github.com/alex-wap/snippet/ss/S1.PNG "Screenshot 1")
+
